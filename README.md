@@ -33,7 +33,7 @@ npm run android
 The app will get installed in the 'Android Studio' Emulator and start running.
 
 # Screenshots:
-![App Screenshot](Screenshots and demo-video/01.png)
+![App Screenshot](Screenshots_and_demo-video/01.png)
 ![App Screenshot](Screenshots and demo-video/02.png)
 ![App Screenshot](Screenshots and demo-video/03.png)
 ![App Screenshot](Screenshots and demo-video/04.png)
