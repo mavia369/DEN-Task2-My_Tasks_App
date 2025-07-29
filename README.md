@@ -44,6 +44,6 @@ The app will get installed in the 'Android Studio' Emulator and start running.
 ![App Screenshot](Screenshots_and_demo-video/09.png)
 ![App Screenshot](Screenshots_and_demo-video/10.png)
 
-#Tech Stack
+# Tech Stack
 1) React Native
 2) SQLite
