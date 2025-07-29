@@ -13,6 +13,10 @@ This project is a simple android application which allows the user to:
 
 In this project, the database (local storage) is implemented using SQLite.
 
+### Tech Stack
+1) React Native
+2) SQLite
+
 # How To Run This Project
 ## Step 1: Setup the enviromnet
 Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
@@ -43,7 +47,3 @@ The app will get installed in the 'Android Studio' Emulator and start running.
 ![App Screenshot](Screenshots_and_demo-video/08.png)
 ![App Screenshot](Screenshots_and_demo-video/09.png)
 ![App Screenshot](Screenshots_and_demo-video/10.png)
-
-# Tech Stack
-1) React Native
-2) SQLite
