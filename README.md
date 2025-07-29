@@ -34,3 +34,12 @@ The app will get installed in the 'Android Studio' Emulator and start running.
 
 # Screenshots:
 ![App Screenshot](Screenshots/01.png)
+![App Screenshot](Screenshots/02.png)
+![App Screenshot](Screenshots/03.png)
+![App Screenshot](Screenshots/04.png)
+![App Screenshot](Screenshots/05.png)
+![App Screenshot](Screenshots/06.png)
+![App Screenshot](Screenshots/07.png)
+![App Screenshot](Screenshots/08.png)
+![App Screenshot](Screenshots/09.png)
+![App Screenshot](Screenshots/10.png)
